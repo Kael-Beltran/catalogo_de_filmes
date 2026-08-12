@@ -40,5 +40,8 @@ O objetivo é criar um site **Catálogo de Filmes**, pois a cliente deseja aband
 **RN02 - Acesso Exclusivo por Autenticação:** É proibido a qualquer usuário não autenticado visualizar, cadastrar, alterar ou excluir filmes do catálogo.
     
 **RN03** - Privacidade do Catálogo:** A coleção de filmes cadastrada pertence unicamente ao usuário dono da conta e não deve ficar visível para terceiros nesta fase do projeto.
+<<<<<<< HEAD
 
 ![](Visão%20Geral.drawio.png)
+=======
+>>>>>>> c3408e1a190ca72bf6afb0d9c9b333ec1e7a3f8f
